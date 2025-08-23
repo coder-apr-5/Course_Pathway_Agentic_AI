@@ -77,10 +77,9 @@ Includes support for:
 
 | Role         | Name             | Responsibility                          |
 |--------------|------------------|------------------------------------------|
-| 💡 Idea Lead | *Your Name*       | Concept, roadmap architecture            |
-| 🤖 AI Dev    | *Teammate Name*   | LLM integration, prompt design           |
-| 🖥️ Frontend  | *Teammate Name*   | UI/UX, chatbot UI, roadmap viewer        |
-| 🛠️ Backend   | *Teammate Name*   | API integration, LMS hooks, user data    |
+| 💡 Idea Lead | Hamza Uzzaman     | Concept, roadmap architecture            |
+| 🤖 AI Dev    | Pritisha Hazra    | LLM integration, prompt design           |
+| 🖥️ Frontend  | Apurba Roy        | UI/UX, chatbot UI, roadmap viewer        |
 
 ---
 
